@@ -1,7 +1,7 @@
 # Current-Emerging-Trends
 
 #What code were you given?
-The given code was a game setup code of GameExperience.py and TreasureMaze.py.
+The given code was a game setup code of GameExperience.py and TreasureMaze.py
 
 #What code did you create yourself?
 I created code to include a reinforcement learning algortihm that includes Keras and Tensorflow libraries.
